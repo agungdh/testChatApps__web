@@ -26,5 +26,11 @@
 	<div id="chat">
 		
 	</div>
+	<!-- jQuery -->
+	<script type="text/javascript" src="<?php echo base_url('assets/jquery-3.3.1.min.js'); ?>"></script>
+	<!-- Socket IO Dev -->
+	<script type="text/javascript" src="<?php echo base_url('assets/socket.io.dev.js'); ?>"></script>
+	<!-- Socket IO -->
+	<!-- <script type="text/javascript" src="<?php echo base_url('assets/socket.io.js'); ?>"></script> -->
 </body>
 </html>
